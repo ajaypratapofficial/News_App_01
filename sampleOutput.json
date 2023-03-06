@@ -1,0 +1,138 @@
+
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ed Sheeran says wife developed tumour in pregnancy, as he announces new album",
+        "description": "The health scare and the death of his friend Jamal Edwards sent Sheeran \"spiralling\" into depression.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-64809475",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB23/production/_128811834_ed-sheeran-cherry-seaborn-t-1.jpg",
+        "publishedAt": "2023-03-01T09:52:21.2887902Z",
+        "content": "Ed Sheeran says he \"spiralled\" into depression last year, after his wife was diagnosed with a tumour and his friend Jamal Edwards died unexpectedly at the age of 31.\r\nThe star's childhood sweetheart,… [+4616 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Bola Tinubu wins Nigeria's presidential election against Atiku Abubakar and Peter Obi",
+        "description": "Bola Tinubu, 70, is declared the winner of Nigeria's election despite opposition calls for a rerun.",
+        "url": "http://www.bbc.co.uk/news/world-africa-64760226",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F73A/production/_128809236_bolareuters.jpg",
+        "publishedAt": "2023-03-01T07:37:24.9773283Z",
+        "content": "Ruling party candidate Bola Tinubu has been declared the winner of Nigeria's disputed presidential election.\r\nThe 70-year-old veteran politician got 36% of the vote, official results show.\r\nHis main … [+3692 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Peruvian delivery man carried ancient mummy around in his bag",
+        "description": "The Peruvian man said he wanted to show off the mummy, which is at least 600 years old, to his friends.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-64797080",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D06/production/_128801972_582c8672f17a50de761f55f0963ff5a8344596310_0_1600_12001000x750.jpg",
+        "publishedAt": "2023-03-01T07:37:20.3931754Z",
+        "content": "Police in Peru made a surprise discovery when they searched a delivery man who came to their attention for acting drunk at an archaeological site in Puno.\r\nInside his cooler bag was an ancient mummy.… [+1377 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Rescuers search wreckage of deadly Greece train crash",
+        "description": "Greek media are describing the train collision as the worst the country has ever known.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64808068",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9F1/production/_128810674_p0f607yt.jpg",
+        "publishedAt": "2023-03-01T07:37:17.7731026Z",
+        "content": "Rescuers have been working through the night to search for survivors after a train crash near the city of Larissa, in northern Greece.\r\nAt least 32 people are known to have died, with dozens more inj… [+109 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Greece train crash: Survivors describe 'nightmarish seconds'",
+        "description": "\"There was panic,\" says one 28-year-old who jumped to safety after the two trains collided near Larissa.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64806678",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D1E/production/_128809927_gettyimages-1247570876.jpg",
+        "publishedAt": "2023-03-01T07:07:18.6798298Z",
+        "content": "Survivors have told of a \"nightmarish 10 seconds\" as their train carriage overturned and was engulfed in flames in a crash in northern Greece.\r\nAt least 32 people have died and dozens more were injur… [+2821 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Greece grapples with devastating rail collision",
+        "description": "Live updates as rescue work continues at the scene of a train crash which killed more than 30.",
+        "url": "http://www.bbc.co.uk/news/live/world-europe-64807384",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2023-03-01T06:07:20.678989Z",
+        "content": "Passengers who survived the crash have described the moment of impact and how they escaped the train. \r\n\"We heard a big bang,\" Stergios Minenis told Reuters news agency.\r\n\"It was a nightmarish ten se… [+497 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "LA agrees to pay Kobe Bryant widow almost $29m",
+        "description": "Vanessa Bryant said first responders took photos of her late husband's remains for \"morbid gossip\".",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64806905",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/180EC/production/_121204589_mediaitem121204588.jpg",
+        "publishedAt": "2023-03-01T03:52:17.7421914Z",
+        "content": "Los Angeles County has agreed to pay nearly $29m (£24m) to NBA superstar Kobe Bryant's widow after police shared graphic images of his fatal helicopter crash two years ago. \r\nBryant and his daughter … [+2568 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Chicago Mayor Lori Lightfoot loses re-election bid",
+        "description": "She was the first black woman and the first openly gay person to serve as head of America's third-largest city.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64806760",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+        "publishedAt": "2023-03-01T03:22:20.4290684Z",
+        "content": "The Democrat conceded defeat on Tuesday to two challengers, both Democrats, who will advance to a 4 April run-off vote."
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "FBI director Christopher Wray says Covid origin 'most likely' from Chinese lab",
+        "description": "Christopher Wray says the FBI has \"for quite some time\" settled on a potential lab incident in Wuhan.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64806903",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15D6/production/_128809550_gettyimages-1246593257.jpg",
+        "publishedAt": "2023-03-01T01:37:20.8826906Z",
+        "content": "\"The FBI has for quite some time now assessed that the origins of the pandemic are most likely a potential lab incident,\" he told Fox News."
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Donald Trump assails Rupert Murdoch over defamation testimony",
+        "description": "The media mogul's emails reveal he told a Fox executive: \"We want to make Trump a non person.\"",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64806437",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/139A2/production/_128809208_gettyimages-1247393711.jpg",
+        "publishedAt": "2023-03-01T00:37:17.3412951Z",
+        "content": "Former President Donald Trump has lashed out at Fox News owner Rupert Murdoch, accusing him of betraying Fox hosts in recent legal testimony.\r\nIn a defamation lawsuit, Mr Murdoch conceded some Fox ho… [+3392 chars]"
+      }
+    ]
+  }
