@@ -21,7 +21,7 @@ export default class App extends Component {
         <BrowserRouter>
         <Navbar/>
         <Routes>
-        <Route exact path='/' element={<News pageSize={this.pageSize} url={this.url} key="general" category="general" country={this.country}/>  }></Route>
+        <Route exact path='/News_App_01' element={<News pageSize={this.pageSize} url={this.url} key="general" category="general" country={this.country}/>  }></Route>
         <Route exact path='/Business' element={<News pageSize={this.pageSize} url={this.url}  key="business" category="business" country={this.country}/>  }></Route>
         <Route exact path='/Entertainment' element={<News pageSize={this.pageSize} url={this.url}  key="entertainment" category="entertainment" country={this.country}/>  }></Route>
         <Route exact path='/General' element={<News pageSize={this.pageSize} url={this.url}  key="general" category="general" country={this.country}/>  }></Route>
